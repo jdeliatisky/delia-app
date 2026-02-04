@@ -1,4 +1,6 @@
-# Plataforma de Transcripción y Captura de Cuentos Infantiles
+# delia-app
+
+## Plataforma de Transcripción y Captura de Cuentos Infantiles
 
 ## Contexto
 Certamen Nacional de Literatura Infantil y Juvenil (Ciclo escolar 2025–2026, México).
